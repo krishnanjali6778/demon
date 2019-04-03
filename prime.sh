@@ -17,4 +17,4 @@ echo "It is not a prime number"
 else
 echo "It is a prime number"
 fi
-echo "Hello world"
+echo "end of program"
